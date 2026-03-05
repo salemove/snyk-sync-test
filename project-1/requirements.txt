@@ -1,6 +1,6 @@
 # Intentionally vulnerable requirements for Snyk testing — DO NOT USE IN PRODUCTION
 # These versions are known to have published CVEs. Suitable for Snyk demo scans.
-Django==1.11.1
+Django==4.2.29
 requests==2.19.1
 urllib3==1.24.1
 jinja2==2.10.0
